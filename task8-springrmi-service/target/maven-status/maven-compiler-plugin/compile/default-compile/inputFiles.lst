@@ -1,0 +1,17 @@
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\model\User.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\model\Verification.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\dao\StudentDao.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\server\StudentDaoServiceRemote.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\service\StudentDaoService.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\utils\logs\LogAdvice.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\server\VerificationDaoServiceRemote.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\service\VerificationDaoService.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\utils\cache\MemcachedCache.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\dao\UserDao.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\dao\VerificationDao.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\server\UserDaoServiceRemote.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\model\Student.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\model\BasicVo.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\service\UserDaoService.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\controller\StartService.java
+D:\test\task8-springrmi\task8-springrmi-service\src\main\java\com\putaoteng\task8\dao\BasicDao.java
